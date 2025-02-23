@@ -1,5 +1,5 @@
 ---
-name: " \U0001F6E0 Custom Issue Report"
+name: " \U0001F6E0 Issue Report"
 about: Use this template for reporting general issues or requests.
 title: ''
 labels: ''
