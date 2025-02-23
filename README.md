@@ -48,11 +48,11 @@ Copy and paste this template inside your file and edit it:
 ```md
 # 🚀 Your Name  
 
-🎓 **Who are you?** (Student, Developer, Open-Source Enthusiast, etc.)  
+🎓 Who are you? (Student, Developer, Open-Source Enthusiast, etc.)  
 
-💡 **Tech Stack:** (Languages, Frameworks, Tools you use)  
+💡 Tech Stack: (Languages, Frameworks, Tools you use)  
 
-🔗 **Portfolio Links:** [GitHub](https://github.com/yourname), [Website](https://yourwebsite.com)
+🔗 Portfolio Link: [GitHub](https://github.com/yourname), [Website](https://yourwebsite.com)
 ``` 
 
 4️⃣ **Commit & Create a Pull Request**  
