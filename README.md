@@ -52,7 +52,8 @@ Copy and paste this template inside your file and edit it:
 
 💡 Tech Stack: (Languages, Frameworks, Tools you use)  
 
-🔗 Portfolio Link: [GitHub](https://github.com/yourname), [Website](https://yourwebsite.com)
+🔗 Portfolio Link: [Website](https://yourwebsite.com)
+Profile Link : [GitHub](https://github.com/yourname)
 ``` 
 
 4️⃣ **Commit & Create a Pull Request**  
